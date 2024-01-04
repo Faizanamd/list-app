@@ -21,5 +21,5 @@ This project is a simple and efficient to-do list application built using React 
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/Faizanamd/list-app)[https://github.com/Faizanamd/list-app]
+git clone https://github.com/Faizanamd/list-app
 cd your-repository
